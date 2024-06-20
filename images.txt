@@ -4,6 +4,6 @@ zookeeper:latest
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
 jenkins/jenkins:lts
-halohub/halo:2.14
+halohub/halo:2.16
 ghcr.io/open-webui/open-webui:main
 frooodle/s-pdf:latest
