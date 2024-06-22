@@ -1,3 +1,4 @@
+nginx:latest
 mysql:latest
 redis:latest
 zookeeper:latest
