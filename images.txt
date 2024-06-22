@@ -1,4 +1,5 @@
 node:latest
+docker:latest
 nginx:latest
 mysql:latest
 redis:latest
