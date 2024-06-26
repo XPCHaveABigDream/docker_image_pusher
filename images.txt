@@ -9,4 +9,5 @@ gitlab/gitlab-runner:latest
 jenkins/jenkins:lts
 halohub/halo:2.16
 ghcr.io/open-webui/open-webui:main
+ghcr.io/anduin2017/how-to-cook:latest
 frooodle/s-pdf:latest
