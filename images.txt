@@ -1,16 +1,1 @@
-node:latest
-docker:latest
-nginx:latest
-mysql:latest
-redis:latest
-zookeeper:latest
-gitlab/gitlab-ce:latest
-gitlab/gitlab-ce:17.3.1
-gitlab/gitlab-runner:latest
-jenkins/jenkins:lts
-halohub/halo:2.19
-ghcr.io/open-webui/open-webui:main
-ghcr.io/anduin2017/how-to-cook:latest
-frooodle/s-pdf:latest
-ghcr.io/usememos/memos:stable
-ghcr.io/tw93/pake:latest
+gitlab/gitlab-ce:17.3.2
