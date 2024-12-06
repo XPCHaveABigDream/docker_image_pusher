@@ -5,7 +5,7 @@ mysql:latest
 redis:latest
 zookeeper:latest
 gitlab/gitlab-ce:latest
-gitlab/gitlab-ce:17.3.0
+gitlab/gitlab-ce:17.3.1
 gitlab/gitlab-runner:latest
 jenkins/jenkins:lts
 halohub/halo:2.19
